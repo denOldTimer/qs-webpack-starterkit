@@ -1,0 +1,9 @@
+@use 'abstracts/variables';
+
+body {
+  color: var(--clr);
+}
+
+.text {
+  color: var(--clr);
+}
